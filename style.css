@@ -1,0 +1,44 @@
+.heading{
+    width: 100%;
+    margin:0px;
+    font-size: 40px;
+    letter-spacing: 10px;
+    box-shadow: 10px 10px 20px black;
+    text-shadow: 10px 10px 6px rgba(24, 22, 102, 0.7);
+    font-weight: bold;
+}
+.model_div{
+    float: none;
+    background: white;
+    padding: 10px;
+    color: navy;
+    border-radius: 20px;
+    letter-spacing: normal;
+    text-shadow: none;
+    font-size: 27px;
+}
+.peeople_div{
+    padding: 10px;
+    font-size: 15px;
+}
+.result{
+    font-size: 20px;
+}
+.developer_thing{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 2;
+    text-align: center;
+}
+canvas{
+    border: 3px solid white;
+    box-shadow: 2px 2px 5px gray;
+    margin-top: 150px;
+}
+.result_person{
+    background-color: black;
+    color: white;
+}
